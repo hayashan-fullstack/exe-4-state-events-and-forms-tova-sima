@@ -1,0 +1,27 @@
+.header{
+    font-size:90px;
+    background-color: rgb(10, 45, 160);
+    color: rgb(147, 216, 193);
+}
+
+.header1{
+    font-size: 30px;
+    background-color: rgb(10, 45, 160);
+    color: rgb(147, 216, 193);
+}
+
+.badd{
+    background-color: rgb(10, 45, 160);
+    color: rgb(147, 216, 193);
+    font-size: 15px;
+    border: rgb(10, 45, 160); 
+    font-family:  Times, 'Times New Roman',serif
+}
+
+.list{
+    list-style-type: none;
+}
+
+
+
+
